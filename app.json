@@ -17,22 +17,22 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "2250779072323"
     },
     "PREFIX": {
       "description": "prefix, check for more",
-      "required": false,
-      "value": "."
+      "required": true,
+      "value": "✓"
     },
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "29_8_4a59_1df8_87ed"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
-      "required": false,
-      "value": "❤️,LyFE"
+      "required": true,
+      "value": "✰𝐒𝐚𝐝-𝐁𝐨𝐲✰"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -55,7 +55,7 @@
     "WARN_LIMIT": {
       "description": "Maximum number of wanings to a person.",
       "required": false,
-      "value": "3"
+      "value": "2"
     },
     "FORCE_LOGOUT": {
       "description": "In Some scenario have to logout web, Only such case make this true and back to false after logout.",
@@ -99,8 +99,8 @@
     },
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
